@@ -1,7 +1,7 @@
 ## Welcome, to SkinScan
 
 SkinScan is a user-friendly web application that empowers you to take control of your skin health. Simply snap a photo of any skin concern, and our advanced AI model will analyze the image and classify potential issues.
-SkinSkan can classify any of the following skin diseases.
+SkinScan can classify any of the following skin diseases.
 
 - Actinic Keratosis (AKIEC)
 - Basal Cell Carcinoma (BCC)
