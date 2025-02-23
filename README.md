@@ -21,16 +21,26 @@ SkinScan can classify any of the following skin diseases.
 - Pre-trained ResNet-50 model, a powerful Convolution neural network developed by Microsoft
 - Fine tuned to match data
 - Training_model function that handles the core training loop
-- Adam optimizer
+- Adam optimizer, which helps the model learn by adjusting its parameters to minimize errors.
 - Learning rate scheduler (ReduceLROnPlateau)
-- Confusion matrix
+- Confusion matrix for model evaluation
 - Classification report
 
 
 
 ## How to run 
-- Git clone https://github.com/nathan-lioe/SkinScan.git
-- cd to the directory where you have the project
-- streamlit run app.py to run skinscan.
+
+### **Start by cloning the repo to your local machine**
+````
+Git clone https://github.com/nathan-lioe/SkinScan.git
+````
+
+### ***Run Streamlit
+````
+streamlit run app.py to run skinScan.
+
+````````
+
+
 
   
