@@ -36,7 +36,7 @@ Git clone https://github.com/nathan-lioe/SkinScan.git
 ````
 ### **Start by cloning the repo to your local machine**
 ````
-pip install -r requirements
+pip install -r requirements.txt
 ````
 
 
