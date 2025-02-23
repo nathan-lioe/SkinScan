@@ -34,7 +34,7 @@ SkinScan can classify any of the following skin diseases.
 ````
 Git clone https://github.com/nathan-lioe/SkinScan.git
 ````
-### **Start by cloning the repo to your local machine**
+### **Download all Requirements**
 ````
 pip install -r requirements.txt
 ````
