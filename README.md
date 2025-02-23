@@ -15,9 +15,9 @@ SkinScan can classify any of the following skin diseases.
 ## How it works:
 
 - Preprocesses the CSV files with image paths and diagnoses 
-- Handle missing data
-- Create train, validation and test sets 
-- Derma Dataset class to load images and labels efficiently
+- Handles missing data in the HAM10000 dataset
+- Creates train, validation and test sets 
+- DermaDataset class to load images and labels efficiently
 - Pre-trained ResNet-50 model, a powerful Convolution neural network developed by Microsoft
 - Fine tuned to match data
 - Training_model function that handles the core training loop
