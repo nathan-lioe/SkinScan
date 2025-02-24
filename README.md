@@ -40,9 +40,9 @@ pip install -r requirements.txt
 ````
 
 
-### ***Run Streamlit
+### **Run Streamlit
 ````
-streamlit run app.py to run skinScan.
+streamlit run app.py
 
 ````````
 
