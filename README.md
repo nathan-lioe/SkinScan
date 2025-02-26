@@ -12,8 +12,9 @@ SkinScan can classify any of the following skin diseases.
 - Vascular Lesions (VASC)
    
 
-## How it works:
+## How it works
 
+Our Model Training Process:
 - Preprocesses the CSV files with image paths and diagnoses 
 - Handles missing data in the HAM10000 dataset
 - Creates train, validation and test sets 
