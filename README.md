@@ -47,6 +47,6 @@ streamlit run app.py
 
 ````````
 
-
+Upload or take a picture.
 
   
