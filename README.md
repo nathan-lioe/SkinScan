@@ -46,7 +46,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ````````
-
-Upload or take a picture.
+### **Make a prediction**
+To make a prediction with our fine-tuned model.You need to upload or take a picture on the Steamlit app. The results will be shown below.
 
   
